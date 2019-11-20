@@ -1,1 +1,2 @@
- - dodao nešto novo u master grani
+- dodao nešto na feature grani
+- dodao nešto novo u master grani
