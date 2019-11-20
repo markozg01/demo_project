@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 class DemoApplication {
 
 	static void main(String[] args) {
+		//promenjeno na feature grani
 		SpringApplication.run(DemoApplication, args)
 	}
 
